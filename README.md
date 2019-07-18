@@ -1,6 +1,7 @@
 # Pryices
 Check also the <a href="https://www.pryices.com/" target="_blank">website</a>.
 <a href="https://play.google.com/store/apps/details?id=com.pryices.pryices" targer="_blank"><img src="http://www.pryices.com/assets/images/pryices_promo.jpg" border="0" /></a>
+<p>Application size: <img src="https://img.shields.io/badge/size-5.74MB-brightgreen.svg" border="0" /></p>
 <ul>
   <li>
     <a href="#intro">Introduction</a>    
