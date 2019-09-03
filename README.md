@@ -25,6 +25,7 @@ Check also the <a href="https://www.pryices.com/" target="_blank">website</a>.
       </ul>
     </td>
 </table>
+
 # <a name="intro">Introduction</a>
 <p>This is a platform where users can set up their own market to post any kind of product to sell for free. This platform is also created with the purpose of helping users to find any kind of products, compare prices, check if the product is available or not, get the location where you are doing your marketing and get the telephone number of the business for any kind of questions. A platform where there will be no distractions and get you exactly the information you are looking for.</p>
 
