@@ -2,22 +2,29 @@
 Check also the <a href="https://www.pryices.com/" target="_blank">website</a>.
 <a href="https://play.google.com/store/apps/details?id=com.pryices.pryices" targer="_blank"><img src="http://www.pryices.com/assets/images/pryices_promo.jpg" border="0" /></a>
 <p><img src="https://img.shields.io/badge/size-5.74MB-brightgreen.svg" border="0" /></p>
-<ul>
-  <li>
-    <a href="#intro">Introduction</a>    
-  </li>
-  <li><a href="#help">Help</a>
-    <ul>
-      <li><a href="#searchwithapp">How to search using this application?</a></li>
-      <li><a href="#commentratevote">Can I comment, rate, or vote?</a></li>
-      <li><a href="#promoteproducts">How to promote my products or business?</a></li>
-      <li><a href="#keepdata">If I remove my account will my data be kept?</a></li>
-      <li><a href="#productsandimages">Can I remove, edit, add, or delete products and images?</a></li>
-      <li><a href="#googlemaps">Why my location is not shown correct on Google maps?</a></li>
-    </ul>
-  </li>
-</ul>
-  
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github.com/pryices/master/blob/master/pryices_android.gif" border="0" style="float: left; margin-right: 5px; margin-bottom: 5px;" />
+    </td>
+    <td>
+      <ul>
+        <li>
+          <a href="#intro">Introduction</a>    
+        </li>
+        <li><a href="#help">Help</a>
+          <ul>
+            <li><a href="#searchwithapp">How to search using this application?</a></li>
+            <li><a href="#commentratevote">Can I comment, rate, or vote?</a></li>
+            <li><a href="#promoteproducts">How to promote my products or business?</a></li>
+            <li><a href="#keepdata">If I remove my account will my data be kept?</a></li>
+            <li><a href="#productsandimages">Can I remove, edit, add, or delete products and images?</a></li>
+            <li><a href="#googlemaps">Why my location is not shown correct on Google maps?</a></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+</table>
 # <a name="intro">Introduction</a>
 <p>This is a platform where users can set up their own market to post any kind of product to sell for free. This platform is also created with the purpose of helping users to find any kind of products, compare prices, check if the product is available or not, get the location where you are doing your marketing and get the telephone number of the business for any kind of questions. A platform where there will be no distractions and get you exactly the information you are looking for.</p>
 
