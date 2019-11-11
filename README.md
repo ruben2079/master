@@ -1,6 +1,6 @@
 # Pryices
 Check also the <a href="https://www.pryices.com/" target="_blank">website</a>.
-<a href="https://play.google.com/store/apps/details?id=com.pryices.pryices" targer="_blank"><img src="http://www.pryices.com/assets/images/pryices_promo.jpg" border="0" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.pryices.pryices" targer="_blank"><img src="https://pbs.twimg.com/profile_banners/1150097514957332480/1572886231/1500x500" border="0" /></a>
 <p><img src="https://img.shields.io/badge/size-5.74MB-brightgreen.svg" border="0" /></p>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
